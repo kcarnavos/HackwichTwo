@@ -16,6 +16,7 @@ class secondViewController: UIViewController {
     }
     
     @IBAction func changeColorButtonPressed(_ sender: Any) {
+        self.view.backgroundColor = UIColor.blue
     }
     
     /*
